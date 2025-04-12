@@ -56,3 +56,13 @@
 |----------------|--------------------------------------------|
 | CTRL + SHIFT + `i` | (Unspecified; possibly move + select up)   |
 | CTRL + SHIFT + `k` | (Unspecified; possibly move + select down) |
+
+
+
+#### 🛠️ Steps to Enable:
+
+1. **Download and install** [AutoHotkey](https://www.autohotkey.com/).
+2. Right-click anywhere on your **desktop**, then go to **New → Text Document**.
+3. Open the empty notepad file and **copy/paste the code below** into it.
+4. Rename your notepad file to anything you like, but make sure the file ends with `.ahk` (e.g., `remap.ahk`).
+5. **Double-click** the `.ahk` file to run your script — done!
